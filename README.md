@@ -8,7 +8,7 @@ Repo: https://github.com/ucsb-cs156-w24/jpa02-rohankumar2025
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-rohankumar2025.dokku-02.cs.ucsb.edu
 
 
 # About this repo
